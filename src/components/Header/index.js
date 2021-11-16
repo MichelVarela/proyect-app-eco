@@ -31,6 +31,7 @@ const Header = () => {
                 </div>
                 { dropdown === true ? <DropdownMenu /> : '' }
             </div>
+            <div></div>
         </header>
     )
 }
